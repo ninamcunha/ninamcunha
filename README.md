@@ -28,44 +28,19 @@ I built a **portfolio webpage** to showcase my data science projects and profess
 * **Statistics & Visualization**: Causal Inference, A/B Testing, Matplotlib, Seaborn, Streamlit
 * **Research Methods**: RCT Design, Psychometrics, Structural Equation Modeling
 
-<br>
-## Certifications
+## 📜 Certifications
 
-<div style="display: flex; flex-direction: column; gap: 15px; margin: 25px 0;">
-
-<div style="display: flex; align-items: center; gap: 15px; padding: 10px; background: rgba(255,255,255,0.05); border-radius: 8px;">
-  <img src="https://ninamcunha.github.io/my-portfolio/images/icon_google.png" width="50" height="50" alt="Google" style="border-radius: 4px;">
-  <div>
-    <strong style="font-size: 1.05em;">Google Advanced Data Analytics Professional Certificate</strong><br>
-    <small style="opacity: 0.8;">Google via Coursera | Dec 2024 | <a href="https://www.coursera.org/account/accomplishments/professional-cert/98C47QXOLHBA" target="_blank">View Credential</a></small>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; gap: 15px; padding: 10px; background: rgba(255,255,255,0.05); border-radius: 8px;">
-  <img src="https://ninamcunha.github.io/my-portfolio/images/icon_michigan.jpeg" width="50" height="50" alt="University of Michigan" style="border-radius: 4px;">
-  <div>
-    <strong style="font-size: 1.05em;">Applied Machine Learning in Python</strong><br>
-    <small style="opacity: 0.8;">University of Michigan | Oct 2023 | <a href="https://www.coursera.org/account/accomplishments/certificate/D8NC5S5AK5ZQ" target="_blank">View Credential</a></small>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; gap: 15px; padding: 10px; background: rgba(255,255,255,0.05); border-radius: 8px;">
-  <img src="https://ninamcunha.github.io/my-portfolio/images/icon_usp.png" width="50" height="50" alt="University of São Paulo" style="border-radius: 4px;">
-  <div>
-    <strong style="font-size: 1.05em;">Intro to Computer Science with Python</strong><br>
-    <small style="opacity: 0.8;">University of São Paulo | Oct 2023 | <a href="https://www.coursera.org/account/accomplishments/certificate/T6DRTCP8AMDD" target="_blank">View Credential</a></small>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; gap: 15px; padding: 10px; background: rgba(255,255,255,0.05); border-radius: 8px;">
-  <img src="https://ninamcunha.github.io/my-portfolio/images/icon_stat_hor.jpeg" width="50" height="50" alt="Statistical Horizons" style="border-radius: 4px;">
-  <div>
-    <strong style="font-size: 1.05em;">Categorical Structural Equation Modeling</strong><br>
-    <small style="opacity: 0.8;">Statistical Horizons | May 2021 | <a href="https://drive.google.com/file/d/1tev7DsQGcU9_jaF0KPXPAg_K6D-OPXMA/view" target="_blank">View Certificate</a></small>
-  </div>
-</div>
-
-</div>
+| Institution | Certification | Date | Credential |
+|------------|---------------|------|------------|
+| ![Google](https://ninamcunha.github.io/my-portfolio/images/icon_google.png) | **Google Advanced Data Analytics Professional Certificate** | Dec 2024 | [View](https://www.coursera.org/account/accomplishments/professional-cert/98C47QXOLHBA) |
+| ![Michigan](https://ninamcunha.github.io/my-portfolio/images/icon_michigan.jpeg) | **Applied Machine Learning in Python** | Oct 2023 | [View](https://www.coursera.org/account/accomplishments/certificate/D8NC5S5AK5ZQ) |
+| ![USP](https://ninamcunha.github.io/my-portfolio/images/icon_usp.png) | **Introduction to Computer Science with Python Part II** | Oct 2023 | [View](https://www.coursera.org/account/accomplishments/certificate/T6DRTCP8AMDD) |
+| ![Michigan](https://ninamcunha.github.io/my-portfolio/images/icon_michigan.jpeg) | **Applied Plotting, Charting & Data Representation** | Sep 2023 | [View](https://www.coursera.org/account/accomplishments/certificate/D8NC5S5AK5ZQ) |
+| ![Michigan](https://ninamcunha.github.io/my-portfolio/images/icon_michigan.jpeg) | **Introduction to Data Science in Python** | Sep 2023 | [View](https://www.coursera.org/account/accomplishments/certificate/8TMUB39YBDTR) |
+| ![USP](https://ninamcunha.github.io/my-portfolio/images/icon_usp.png) | **Introduction to Computer Science with Python Part I** | Sep 2023 | [View](https://www.coursera.org/account/accomplishments/certificate/VGRZNWMSK5GJ) |
+| ![Statistical Horizons](https://ninamcunha.github.io/my-portfolio/images/icon_stat_hor.jpeg) | **Categorical Structural Equation Modeling** | May 2021 | [View](https://drive.google.com/file/d/1tev7DsQGcU9_jaF0KPXPAg_K6D-OPXMA/view) |
+| ![CenterStat](https://ninamcunha.github.io/my-portfolio/images/icon_center_stat.png) | **Applied Measurement Modeling** | May 2021 | [View](https://drive.google.com/file/d/1NB7Hsdr4bNtIxigfkhuXU_UnwPNA_dQr/view) |
+| ![CenterStat](https://ninamcunha.github.io/my-portfolio/images/icon_center_stat.png) | **Introduction to Structural Equation Modeling** | May 2021 | [View](https://drive.google.com/file/d/1QUBa6TssribUi5-y5ALdSHd6uqOgmjg3/view) |
 
 <br>
 
