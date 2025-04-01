@@ -28,39 +28,47 @@ I built a **portfolio webpage** to showcase my data science projects and profess
 * **Statistics & Visualization**: Causal Inference, A/B Testing, Matplotlib, Seaborn, Streamlit
 * **Research Methods**: RCT Design, Psychometrics, Structural Equation Modeling
 
-## 📜 Certifications
+## Certifications
 
-### <img src="https://ninamcunha.github.io/my-portfolio/images/icon_google.png" width="20" height="20"> [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/98C47QXOLHBA)
-**Google via Coursera** | Dec 2024  
-*Credential ID: 98C47QXOLHBA*
+<div align="center">
+  
+**Google**  
+[Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/98C47QXOLHBA)  
+<small>Dec 2024 | Credential ID: 98C47QXOLHBA</small>
 
-### <img src="https://ninamcunha.github.io/my-portfolio/images/icon_michigan.jpeg" width="20" height="20"> [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/D8NC5S5AK5ZQ)
-**University of Michigan** | Oct 2023  
-*Credential ID: D8NC5S5AK5ZQ*
+**University of Michigan**  
+[Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/D8NC5S5AK5ZQ)  
+<small>Oct 2023 | Credential ID: D8NC5S5AK5ZQ</small>
 
-### <img src="https://ninamcunha.github.io/my-portfolio/images/icon_usp.png" width="20" height="20"> [Intro to Computer Science with Python Part II](https://www.coursera.org/account/accomplishments/certificate/T6DRTCP8AMDD)
-**University of São Paulo** | Oct 2023  
-*Credential ID: T6DRTCP8AMDD*
+**University of São Paulo**  
+[Intro to Computer Science with Python Part II](https://www.coursera.org/account/accomplishments/certificate/T6DRTCP8AMDD)  
+<small>Oct 2023 | Credential ID: T6DRTCP8AMDD</small>
 
-### <img src="https://ninamcunha.github.io/my-portfolio/images/icon_michigan.jpeg" width="20" height="20"> [Applied Plotting, Charting & Data Representation](https://www.coursera.org/account/accomplishments/certificate/D8NC5S5AK5ZQ)
-**University of Michigan** | Sep 2023  
+**University of Michigan**  
+[Applied Plotting & Data Visualization](https://www.coursera.org/account/accomplishments/certificate/D8NC5S5AK5ZQ)  
+<small>Sep 2023</small>
 
-### <img src="https://ninamcunha.github.io/my-portfolio/images/icon_michigan.jpeg" width="20" height="20"> [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/8TMUB39YBDTR)
-**University of Michigan** | Sep 2023  
-*Credential ID: 8TMUB39YBDTR*
+**University of Michigan**  
+[Intro to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/8TMUB39YBDTR)  
+<small>Sep 2023 | Credential ID: 8TMUB39YBDTR</small>
 
-### <img src="https://ninamcunha.github.io/my-portfolio/images/icon_usp.png" width="20" height="20"> [Intro to Computer Science with Python Part I](https://www.coursera.org/account/accomplishments/certificate/VGRZNWMSK5GJ)
-**University of São Paulo** | Sep 2023  
-*Credential ID: VGRZNWMSK5GJ*
+**University of São Paulo**  
+[Intro to Computer Science with Python Part I](https://www.coursera.org/account/accomplishments/certificate/VGRZNWMSK5GJ)  
+<small>Sep 2023 | Credential ID: VGRZNWMSK5GJ</small>
 
-### <img src="https://ninamcunha.github.io/my-portfolio/images/icon_stat_hor.jpeg" width="20" height="20"> [Categorical Structural Equation Modeling](https://drive.google.com/file/d/1tev7DsQGcU9_jaF0KPXPAg_K6D-OPXMA/view)
-**Statistical Horizons** | May 2021
+**Statistical Horizons**  
+[Categorical Structural Equation Modeling](https://drive.google.com/file/d/1tev7DsQGcU9_jaF0KPXPAg_K6D-OPXMA/view)  
+<small>May 2021</small>
 
-### <img src="https://ninamcunha.github.io/my-portfolio/images/icon_center_stat.png" width="20" height="20"> [Applied Measurement Modeling](https://drive.google.com/file/d/1NB7Hsdr4bNtIxigfkhuXU_UnwPNA_dQr/view)
-**CenterStat** | May 2021
+**CenterStat**  
+[Applied Measurement Modeling](https://drive.google.com/file/d/1NB7Hsdr4bNtIxigfkhuXU_UnwPNA_dQr/view)  
+<small>May 2021</small>
 
-### <img src="https://ninamcunha.github.io/my-portfolio/images/icon_center_stat.png" width="20" height="20"> [Intro to Structural Equation Modeling](https://drive.google.com/file/d/1QUBa6TssribUi5-y5ALdSHd6uqOgmjg3/view)
-**CenterStat** | May 2021
+**CenterStat**  
+[Intro to Structural Equation Modeling](https://drive.google.com/file/d/1QUBa6TssribUi5-y5ALdSHd6uqOgmjg3/view)  
+<small>May 2021</small>
+
+</div>
 <br>
 
 <strong>Connect With Me</strong>:
