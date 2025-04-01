@@ -1,13 +1,13 @@
 # **Nina Menezes Cunha**
 
-I built a **portfolio webpage** to showcase my data science projects and professional journey. You can view it here: **[https://ninamcunha.github.io/](https://ninamcunha.github.io/)**. Below you'll find a condensed version of my background and projects. 🌟
+I built a **portfolio webpage** to showcase my data science projects and professional journey. You can view it here: **[[https://ninamcunha.github.io/](https://ninamcunha.github.io/my-portfolio/)](https://ninamcunha.github.io/my-portfolio/)**. Below you'll find a condensed version of my background and projects. 🌟
 
 #
 
 
 <br>
 
-**Founder/CEO** at **[Amooora]**, **Former Senior Research Associate** at **[FHI 360](https://www.fhi360.org/)**, **Stanford PhD in Economics of Education**, **Data Science Bootcamp Graduate** at **[Le Wagon](https://www.lewagon.com/data-science-course)**, and **World Bank Consultant**.
+**Founder/CEO** at **Amooora**, **Former Senior Research Associate** at **[FHI 360](https://www.fhi360.org/)**, **Stanford PhD in Economics of Education**, **Data Science Bootcamp Graduate** at **[Le Wagon](https://www.lewagon.com/data-science-course)**, and **World Bank Consultant**.
 
 <br>
 <br>
