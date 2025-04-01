@@ -65,15 +65,7 @@ I built a **portfolio webpage** to showcase my data science projects and profess
 <img src="https://ninamcunha.github.io/my-portfolio/images/icon_center_stat.png" width="20" align="left" hspace="10" vspace="4"> **Intro to Structural Equation Modeling**  
 <small>May 2021 | [Certificate](https://drive.google.com/file/d/1QUBa6TssribUi5-y5ALdSHd6uqOgmjg3/view)</small>  
 <br clear="left">
-<br>
 
-<strong>Connect With Me</strong>:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nina-menezes-cunha/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ninamcunha)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ninamcunha@gmail.com)
-
-<br>
 
 ## Featured Data Science Projects:
 
@@ -127,5 +119,13 @@ Led 10+ large-scale education studies across 5 countries using:
   PhD research with 25,000+ student RCTs
 
 <br>
+<br>
 
+<strong>Connect With Me</strong>:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nina-menezes-cunha/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ninamcunha)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ninamcunha@gmail.com)
+
+<br>
 
