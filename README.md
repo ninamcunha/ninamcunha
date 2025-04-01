@@ -20,7 +20,8 @@ I built a **portfolio webpage** to showcase my data science projects and profess
 * Proudly Brazilian 🇧🇷 and openly lesbian 🏳️‍🌈, blending technical rigor with human-centered design
 
 <br>
-<strong>Technical Toolkit</strong> 🛠️
+
+## Technical Toolkit 🛠️:
 
 * **Data Engineering**: Python (Pandas, NumPy), SQL (BigQuery, PostgreSQL), Data Pipelines (Prefect, FastAPI)
 * **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, NLP, Time Series Forecasting
@@ -110,7 +111,7 @@ Led 10+ large-scale education studies across 5 countries using:
 <br>
 
 
-## Publications
+## Publications:
 
 **Bettinger, E.**, Cunha, N. M., Lichand, G., & Madeira, R. (2024). [Are the effects of informational interventions driven by salience?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3644124) *American Economic Journal: Economic Policy*.
 
@@ -132,7 +133,7 @@ Led 10+ large-scale education studies across 5 countries using:
 <br>
 
 
-<strong>Connect With Me</strong>:
+## Connect With Me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nina-menezes-cunha/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ninamcunha)
