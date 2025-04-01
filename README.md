@@ -40,9 +40,6 @@ I built a **portfolio webpage** to showcase my data science projects and profess
 - **Stanford University** (2013-2018):  
   PhD research with 25,000+ student RCTs
 
-
-<br>
-
 ## Certifications:
 
 <img src="https://ninamcunha.github.io/my-portfolio/images/icon_google.png" width="20" align="left" hspace="10" vspace="4"> **Google Advanced Data Analytics**  
@@ -107,9 +104,6 @@ Led 10+ large-scale education studies across 5 countries using:
 - Psychometric tool development
 
 **Methods**: Python, R, SQL, Structural Equation Modeling
-
-<br>
-
 
 ## Publications:
 
