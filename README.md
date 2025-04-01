@@ -95,15 +95,53 @@ Led 10+ large-scale education studies across 5 countries using:
 
 <br>
 
-## Academic Publications:
 
-- **Bettinger, E.; Cunha, N. M.** et al. (2024).  
-  [Are the effects of informational interventions driven by salience?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3644124)  
-  *American Economic Journal: Economic Policy*
+## Publications
 
-- **Omoeva, C., Cunha, N. M.** et al. (2023).  
-  [YouthSoft Skills Assessment for International Programs](https://econtent.hogrefe.com/doi/10.1027/1015-5759/a000770)  
-  *European Journal of Psychological Assessment*
+<div style="margin-left: 15px;">
+
+**2024**  
+<img src="https://ninamcunha.github.io/my-portfolio/images/icon_ajep.png" width="16" align="left" hspace="6"> **Bettinger, E.**, Cunha, N. M., Lichand, G., & Madeira, R.  
+*[Are the effects of informational interventions driven by salience?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3644124)*  
+American Economic Journal: Economic Policy  
+
+<img src="https://ninamcunha.github.io/my-portfolio/images/icon_tandf.png" width="16" align="left" hspace="6"> **Soares, F.** & Cunha, N. M.  
+*[The effects of adding social-emotional learning to education interventions in El Salvador](https://www.tandfonline.com/doi/abs/10.1080/13803611.2024.2339830)*  
+Educational Research and Evaluation, 29(3–4), 201–229  
+
+**2023**  
+<img src="https://ninamcunha.github.io/my-portfolio/images/icon_hogrefe.png" width="16" align="left" hspace="6"> **Omoeva, C.**, Cunha, N. M., Kyllonen, P., Gates, S., Martinez, A., & Burke, H. M.  
+*[YouthPower Action Youth Soft Skills Assessment (YAYSSA)](https://econtent.hogrefe.com/doi/10.1027/1015-5759/a000770)*  
+European Journal of Psychological Assessment  
+
+**2021**  
+<img src="https://ninamcunha.github.io/my-portfolio/images/icon_ijt.png" width="16" align="left" hspace="6"> **Cunha, N. M.**, Martinez, A., Kyllonen, P., & Gates, S.  
+*[Cross-Country Comparability of Social-Emotional Skills Assessments](https://www.tandfonline.com/eprint/3FNYG6RDVQBCP9QAHDN6/full?target=10.1080/15305058.2021.1995867)*  
+International Journal of Testing, 21(3-4), 182-219  
+
+<img src="https://ninamcunha.github.io/my-portfolio/images/icon_ssrn.png" width="16" align="left" hspace="6"> **Lichand, G.**, Bettinger, E., Cunha, N. M., & Madeira, R.  
+*[The Psychological Effects of Poverty on Investments in Children's Human Capital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3633815)*  
+University of Zurich Working Paper No. 349  
+
+<img src="https://ninamcunha.github.io/my-portfolio/images/icon_ijed.png" width="16" align="left" hspace="6"> **Omoeva, C.**, Cunha, N. M., & Moussa, W.  
+*[Measuring equity in education resource allocation](https://drive.google.com/file/d/1rc_2ckI7eM5TEULsGXIrL42BR6BvBIbJ/view)*  
+International Journal of Educational Development, 87  
+
+<img src="https://ninamcunha.github.io/my-portfolio/images/icon_jie.png" width="16" align="left" hspace="6"> **Soares, F.**, Cunha, N. M., & Frisoli, P.  
+*[Wellbeing Holistic Assessment for Teachers (WHAT) tool](https://drive.google.com/file/d/1ytti2aBCARut65k-EnsMWbr-7xBZTB_2/view)*  
+Journal on Education in Emergencies, 7(2)  
+
+**2018**  
+<img src="https://ninamcunha.github.io/my-portfolio/images/icon_eer.png" width="16" align="left" hspace="6"> **Bruns, B.**, Costa, L., & Cunha, N. M.  
+*[Through the looking glass: Classroom observation and teacher performance](https://drive.google.com/file/d/1OCyZytYUhV7PmHouTn8bYtwuHYm1JqUz/view)*  
+Economics of Education Review  
+
+**2014**  
+<img src="https://ninamcunha.github.io/my-portfolio/images/icon_ppe.png" width="16" align="left" hspace="6"> **Cunha, N. M.**, Rios Neto, E. L. G., & Hermeto, A. M.  
+*[Religiosity and school performance in Belo Horizonte](https://drive.google.com/file/d/14eQ_-0qnb0FVLacyOVQP1TnJZbGRcnTt/view)*  
+Pesquisa e Planejamento Econômico, 44, 71-116  
+
+</div>
 
 <br>
 
