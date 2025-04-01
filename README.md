@@ -41,7 +41,8 @@ I built a **portfolio webpage** to showcase my data science projects and profess
 
 
 <br>
-## Certifications
+
+## Certifications:
 
 <img src="https://ninamcunha.github.io/my-portfolio/images/icon_google.png" width="20" align="left" hspace="10" vspace="4"> **Google Advanced Data Analytics**  
 <small>Dec 2024 | [Credential](https://www.coursera.org/account/accomplishments/professional-cert/98C47QXOLHBA) | ID: 98C47QXOLHBA</small>  
