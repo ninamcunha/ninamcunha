@@ -28,6 +28,19 @@ I built a **portfolio webpage** to showcase my data science projects and profess
 * **Statistics & Visualization**: Causal Inference, A/B Testing, Matplotlib, Seaborn, Streamlit
 * **Research Methods**: RCT Design, Psychometrics, Structural Equation Modeling
 
+## Professional Experience Highlights:
+
+- **Founder/CEO @ Amooora** (2024-Present):  
+  Building AI-powered community platform for LGBTQ+ women
+
+- **Senior Researcher @ FHI 360** (2018-2023):  
+  Led education research across Africa/Latin America
+
+- **Stanford University** (2013-2018):  
+  PhD research with 25,000+ student RCTs
+
+
+<br>
 ## Certifications
 
 <img src="https://ninamcunha.github.io/my-portfolio/images/icon_google.png" width="20" align="left" hspace="10" vspace="4"> **Google Advanced Data Analytics**  
@@ -117,19 +130,6 @@ Led 10+ large-scale education studies across 5 countries using:
 **Cunha, N. M.**, Rios Neto, E. L. G., & Hermeto, A. M. (2014). [Religiosity and school performance in Belo Horizonte](https://drive.google.com/file/d/14eQ_-0qnb0FVLacyOVQP1TnJZbGRcnTt/view) *Pesquisa e Planejamento Econômico*, 44, 71-116.
 <br>
 
-## Professional Experience Highlights:
-
-- **Founder/CEO @ Amooora** (2024-Present):  
-  Building AI-powered community platform for LGBTQ+ women
-
-- **Senior Researcher @ FHI 360** (2018-2023):  
-  Led education research across Africa/Latin America
-
-- **Stanford University** (2013-2018):  
-  PhD research with 25,000+ student RCTs
-
-
-<br>
 
 <strong>Connect With Me</strong>:
 
