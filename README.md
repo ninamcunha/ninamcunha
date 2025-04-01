@@ -4,15 +4,10 @@ I built a **portfolio webpage** to showcase my data science projects and profess
 
 #
 
-<p align='center'>
-  <img src="images/profile_picture2.jpg" alt="Nina Menezes Cunha" width="200" style="border-radius:50%"/>  
-</p>
-
-# Nina Menezes Cunha
 
 <br>
 
-**Founder/CEO** at **[Amooora](https://amooora.com)**, **Former Senior Research Associate** at **[FHI 360](https://www.fhi360.org/)**, **Stanford PhD in Economics of Education**, **Data Science Bootcamp Graduate** at **[Le Wagon](https://www.lewagon.com/data-science-course)**, and **World Bank Consultant**.
+**Founder/CEO** at **[Amooora]**, **Former Senior Research Associate** at **[FHI 360](https://www.fhi360.org/)**, **Stanford PhD in Economics of Education**, **Data Science Bootcamp Graduate** at **[Le Wagon](https://www.lewagon.com/data-science-course)**, and **World Bank Consultant**.
 
 <br>
 <br>
