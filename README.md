@@ -1,6 +1,6 @@
 # **Nina Menezes Cunha**
 
-I built a **portfolio webpage** to showcase my data science projects and professional journey. You can view it here: **[[https://ninamcunha.github.io/](https://ninamcunha.github.io/my-portfolio/)](https://ninamcunha.github.io/my-portfolio/)**. Below you'll find a condensed version of my background and projects. 🌟
+I built a **portfolio webpage** to showcase my data science projects and professional journey. You can view it here: **(https://ninamcunha.github.io/my-portfolio/)**. Below you'll find a condensed version of my background and projects. 🌟
 
 #
 
