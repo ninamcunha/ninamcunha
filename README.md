@@ -28,19 +28,7 @@ I built a **portfolio webpage** to showcase my data science projects and profess
 * **Cloud & Deployment**: GCP, Docker, MLflow, CI/CD
 * **Statistics & Visualization**: Causal Inference, A/B Testing, Matplotlib, Seaborn, Streamlit
 * **Research Methods**: RCT Design, Psychometrics, Structural Equation Modeling
-
-## Soft Skills 🌟
-* **Analytical & Problem-Solving**  
-  Critical Thinking | Proactive Solutions | Data Storytelling | Research Rigor
-* **Leadership & Collaboration**  
-  Team Leadership | Cross-Cultural Coordination | Stakeholder Management | Mentorship
-* **Adaptability & Innovation**  
-  Growth Mindset | Multidisciplinary Agility | Lifelong Learning | Resilience
-* **Communication**  
-  Technical Storytelling | Policy Briefings | Academic Writing | Cross-Functional Alignment
-* **Languages**  
-  English (Fluent) | Portuguese (Native) | Spanish (Advanced) | French (Basic)
-  
+ 
 ## Professional Experience Highlights:
 
 - **Founder/CEO @ Amooora** (2024-Present):  
@@ -141,6 +129,14 @@ Proved **$2.40/student coaching** via Skype:
 
 **Methods**: Mixed-Effects Modeling, Cost-Effectiveness Analysis  
 
+  ## Soft Skills 🌟:
+
+* **Analytical & Problem-Solving**: Critical Thinking; Proactive Problem-Solving; Data Storytelling; Research Rigor
+* **Leadership & Collaboration**: Team Leadership; Cross-Cultural Collaboration; Stakeholder Management; Mentorship
+* **Adaptability & Growth**: Resilience; Lifelong Learning; Multidisciplinary Agility; Growth Mindset
+* **Communication**: Technical Storytelling; Non-Technical Communication; Cross-Functional Alignment; Policy Briefings
+* **Languages**: English (Fluent); Portuguese (Native); Spanish (Advanced); French (Basic)
+ 
 ## Publications:
 
 **Bettinger, E.**, Cunha, N. M., Lichand, G., & Madeira, R. (2024). [Are the effects of informational interventions driven by salience?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3644124) *American Economic Journal: Economic Policy*.
