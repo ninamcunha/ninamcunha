@@ -4,6 +4,13 @@ I built a **portfolio webpage** to showcase my data science projects and profess
 
 #
 
+The main objective of this personal portfolio is to demonstrate my skills in **solving Data Science business challenges**.
+
+<p align='center'>
+  <img src="icon.svg" alt="drawing" width="200"/>  
+</p>
+
+# Nina Menezes Cunha
 
 <br>
 
