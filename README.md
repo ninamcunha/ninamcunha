@@ -81,29 +81,53 @@ I built a **portfolio webpage** to showcase my data science projects and profess
 
 ## Featured Data Science Projects:
 
-### [Bottomline - Text Summarization & Sentiment Analysis](https://github.com/ds-gustavo-cunha/Bottomline-Project)
-Developed an NLP pipeline that:
-- Automatically summarizes text documents using transformer models
-- Classifies sentiment with 89% accuracy
-- Deployed as Docker container with FastAPI backend
+### [Amooora Connection Algorithm](https://github.com/ninamcunha/amooora) (2025)
+Developed an LGBTQ+ matching system that:  
+- Clusters 24K+ profiles with **32% better cohesion** using hybrid DBSCAN/LDA  
+- Generates synthetic UI prototypes with GANs  
+- Achieves **0.51 silhouette score** while breaking traditional matching barriers  
 
-**Tech Stack**: Python, Hugging Face Transformers, FastAPI, Docker, GCP
+**Tech Stack**: Python, TensorFlow, spaCy, Streamlit, GCP, Docker  
 
-### [Fraud Detection System](https://github.com/ds-gustavo-cunha/Fraud-Detection)
-Built a financial fraud detection system that:
-- Processes transactions with PySpark
-- Achieves 94% recall on fraud cases
-- Generates estimated $230M in client savings
+### [Parental Monitoring & Student Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3644124) (2025)  
+Led a 289-school RCT showing:  
+- SMS interventions boosted test scores by **0.3σ**  
+- ML-analyzed parental behavior patterns  
+- Published in *American Economic Journal*  
 
-**Tech Stack**: PySpark, MongoDB, FastAPI, Power BI
+**Methods**: Causal Inference (DID/IV), Python, R, A/B Testing  
 
-### [Education Impact Evaluations](https://github.com/ninamcunha/education-impact)
-Led 10+ large-scale education studies across 5 countries using:
-- Randomized Controlled Trials (25,000+ students)
-- Causal inference methods (DID, IV, synthetic control)
-- Psychometric tool development
+### [Youth Soft Skills Assessment](https://econtent.hogrefe.com/doi/10.1027/1015-5759/a000770) (2021-2023)  
+Built a cross-cultural tool that:  
+- Reduced 160+ survey items to 48 validated questions  
+- Achieved **CFI > 0.95** in Uganda/Guatemala  
+- Enabled low-resource program evaluation  
 
-**Methods**: Python, R, SQL, Structural Equation Modeling
+**Methods**: PCA, CFA, Mplus, Measurement Invariance  
+
+### [Teacher Wellbeing Measurement](https://drive.google.com/file/d/1ytti2aBCARut65k-EnsMWbr-7xBZTB_2/view) (2021-2024)  
+Created an ML-powered instrument to:  
+- Measure stress in **1,659 Salvadoran educators**  
+- Validate with **CFI=0.92** despite conflict zones  
+- Guide SEL intervention design  
+
+**Tech Stack**: R, Stata, Cluster-RCTs  
+
+### [Educational Resource Equity Analysis](https://drive.google.com/file/d/1rc_2ckI7eM5TEULsGXIrL42BR6BvBIbJ/view) (2021)  
+Quantified inequities across **53,469 Brazilian schools** by:  
+- Standardizing teacher/school resources into 3D metrics  
+- Revealing **15-30% gaps** for high-needs students  
+- Informing national funding policies  
+
+**Tech Stack**: Stata, R, Geospatial Analysis, OLS  
+
+### [Ceará Teacher Training Program](https://drive.google.com/file/d/1OCyZytYUhV7PmHouTn8bYtwuHYm1JqUz/view) (2018)  
+Proved **$2.40/student coaching** via Skype:  
+- Increased teaching time by **28%**  
+- Boosted engagement by **0.4σ**  
+- Scaled to 350+ Brazilian schools  
+
+**Methods**: Mixed-Effects Modeling, Cost-Effectiveness Analysis  
 
 ## Publications:
 
