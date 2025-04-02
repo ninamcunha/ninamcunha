@@ -29,6 +29,18 @@ I built a **portfolio webpage** to showcase my data science projects and profess
 * **Statistics & Visualization**: Causal Inference, A/B Testing, Matplotlib, Seaborn, Streamlit
 * **Research Methods**: RCT Design, Psychometrics, Structural Equation Modeling
 
+## Soft Skills 🌟
+* **Analytical & Problem-Solving**  
+  Critical Thinking | Proactive Solutions | Data Storytelling | Research Rigor
+* **Leadership & Collaboration**  
+  Team Leadership | Cross-Cultural Coordination | Stakeholder Management | Mentorship
+* **Adaptability & Innovation**  
+  Growth Mindset | Multidisciplinary Agility | Lifelong Learning | Resilience
+* **Communication**  
+  Technical Storytelling | Policy Briefings | Academic Writing | Cross-Functional Alignment
+* **Languages**  
+  English (Fluent) | Portuguese (Native) | Spanish (Advanced) | French (Basic)
+  
 ## Professional Experience Highlights:
 
 - **Founder/CEO @ Amooora** (2024-Present):  
